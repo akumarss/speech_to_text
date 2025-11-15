@@ -1,2 +1,2 @@
-# speech_to_text
-speech to text
+# Speech-to-Text Call Summary Project
+<content trimmed for brevity in this example>
